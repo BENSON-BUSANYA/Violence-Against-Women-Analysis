@@ -26,10 +26,10 @@ This Project analyses data on violence against women to identify trends and patt
 -Dashboard
 
 ## FILES INCLUDED
--Raw_Data
--Clean_Analysis_Data
--Pivot_Table
--Dashboard  --> A Final dashboard visualization
+-Raw_Data.csv
+-Clean_Analysis_Data.xlsx
+-Pivot_Table.png.PNG
+-Dashboard.png.PNG  --> A Final dashboard visualization
 
 ## CONCLUSION
 The Analysis highlights key areas for intervention and awareness.
